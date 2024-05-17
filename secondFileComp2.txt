@@ -1,1 +1,2 @@
 from second computer
+editing on second computer while first computer updates file1
